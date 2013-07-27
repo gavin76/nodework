@@ -2,7 +2,7 @@ var http = require('http');
 
 // the url we want, plus the path and options we need
 var options = {
-    host: 'ec2-54-254-130-102.ap-southeast-1.compute.amazonaws.com',
+    host: 'ec2-54-251-166-130.ap-southeast-1.compute.amazonaws.com',
     port: 8124,
     path:'/?file=secondary',
     method: 'GET'
